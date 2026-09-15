@@ -10,6 +10,8 @@ A lightweight, blazing-fast **Python terminal tool** to scan your local network 
 * **Subnet Auto-Detection:** Automatically figures out your local network range.
 * **Zero Bulk:** No heavy graphical interface—purely terminal-based.
 
+<img width="395" height="372" alt="Gallery" src="https://github.com/user-attachments/assets/987faf0a-a5bd-436c-994c-e3869ce8ecb0" />
+
 ---
 
 ## Requirements
@@ -44,14 +46,14 @@ sudo python iridium.py
 
 ---
 
-## 🛠️ Code Structure
+## Code Structure
 ```text
 iridium-python/
 │
 ├── iridium.py   # The main Python script containing the scanning logic
 └── README.md       # The file you are reading right now!
 ```
-
+## Note: If your ISP has Client Isolation or some other similar feature enabled, you will not be able to see some device names.
 ---
 
 ## Contributing
