@@ -44,7 +44,7 @@ def main():
     found_devices = [r for r in results if r is not None]
     
     ts = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    file_path = f"/Users/MATTHEW/Desktop/scan_{ts}.txt"
+    file_path = f"/Users/your username/Desktop/scan_{ts}.txt"
     
     with open(file_path, "w") as f:
         f.write("Network Scan Log\n")
