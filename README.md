@@ -38,12 +38,6 @@ python iridium.py
 ```bash
 sudo python iridium.py
 ```
-
-### 3. Follow the Prompts
-1. Type in the **Target Subnet** you want to scan (e.g., `192.168.1.0/24`).
-2. Enter the **Number of Threads** to speed up the scan (default is 100).
-3. Watch the live terminal output as it discovers active devices!
-
 ---
 
 ## Code Structure
