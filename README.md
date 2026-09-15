@@ -26,25 +26,25 @@ Before running the script, make sure you have:
 Clone this repository or download the Python file directly:
 ```bash
 git clone https://github.com/entropy-flux/iridium-python.git
-cd iridium-python
+cd iridiumv1.1.py
 ```
 
 ### 2. Run the Script
 Open your terminal and run the scanner using Python:
 ```bash
-python iridium.py
+python iridiumv1.1.py
 ```
 *Note: If you are on Linux or macOS, you might need to run it with admin rules:*
 ```bash
-sudo python iridium.py
+sudo python iridiumv1.1.py
 ```
 ---
 
 ## Code Structure
 ```text
-iridium-python/
+iridiumv1.1.py/
 │
-├── iridium.py   # The main Python script containing the scanning logic
+├── iridiumv1.1.py   # The main Python script containing the scanning logic
 └── README.md       # The file you are reading right now!
 ```
 ## Note: If your ISP provider has Client Isolation or some other similar feature enabled, you will not be able to see some device names.
