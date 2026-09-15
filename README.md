@@ -47,7 +47,7 @@ iridium-python/
 ├── iridium.py   # The main Python script containing the scanning logic
 └── README.md       # The file you are reading right now!
 ```
-## Note: If your ISP has Client Isolation or some other similar feature enabled, you will not be able to see some device names.
+## Note: If your ISP provider has Client Isolation or some other similar feature enabled, you will not be able to see some device names.
 ---
 
 ## Contributing
