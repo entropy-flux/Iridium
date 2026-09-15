@@ -1,6 +1,6 @@
 # Iridium
 
-A lightweight, blazing-fast **Python terminal tool** to scan your local network for active IP addresses and hostnames. It uses multi-threading to ping multiple IP addresses at the same time, giving you results in seconds.
+A lightweight, blazing-fast **Python terminal tool** to scan your local network for active IP addresses and hostnames. It uses multi-threading to ping multiple IP addresses at the same time, giving you results in seconds. Currently supports Mac only.
 
 ---
 
